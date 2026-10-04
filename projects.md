@@ -6,6 +6,8 @@ permalink: /projects.html
 
 ## Open Source
 
+<p class="project-total">~3.7M total downloads across these libraries</p>
+
 <div class="project-grid">
 
   <div class="project-card">
