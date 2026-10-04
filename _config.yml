@@ -1,7 +1,7 @@
-title: Ashish
+title: Ashish Peruri
 email:
 description: >-
-  Deep Learning. Portfolio, projects, and writing.
+  Ashish Peruri: deep learning portfolio, open source projects, papers, and writing.
 baseurl: ""
 url: "https://ashishperuri.com"
 github_username: ashishpvjs
@@ -19,6 +19,7 @@ header_pages:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 markdown: kramdown
 
