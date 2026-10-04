@@ -14,6 +14,7 @@ permalink: /projects.html
     <p class="project-tags"><code>Python</code></p>
     <p class="project-stats">
       <img src="https://img.shields.io/github/stars/fidelity/mabwiser?style=flat-square&label=stars" alt="GitHub stars">
+      <img src="https://static.pepy.tech/badge/mabwiser" alt="PyPI total downloads">
       <img src="https://static.pepy.tech/badge/mabwiser/month" alt="PyPI downloads per month">
     </p>
     <p><a href="https://github.com/fidelity/mabwiser">View on GitHub &rarr;</a></p>
@@ -25,6 +26,7 @@ permalink: /projects.html
     <p class="project-tags"><code>Python</code></p>
     <p class="project-stats">
       <img src="https://img.shields.io/github/stars/fidelity/mab2rec?style=flat-square&label=stars" alt="GitHub stars">
+      <img src="https://static.pepy.tech/badge/mab2rec" alt="PyPI total downloads">
       <img src="https://static.pepy.tech/badge/mab2rec/month" alt="PyPI downloads per month">
     </p>
     <p><a href="https://github.com/fidelity/mab2rec">View on GitHub &rarr;</a></p>
@@ -36,6 +38,7 @@ permalink: /projects.html
     <p class="project-tags"><code>Python</code></p>
     <p class="project-stats">
       <img src="https://img.shields.io/github/stars/fidelity/jurity?style=flat-square&label=stars" alt="GitHub stars">
+      <img src="https://static.pepy.tech/badge/jurity" alt="PyPI total downloads">
       <img src="https://static.pepy.tech/badge/jurity/month" alt="PyPI downloads per month">
     </p>
     <p><a href="https://github.com/fidelity/jurity">View on GitHub &rarr;</a></p>
@@ -47,6 +50,7 @@ permalink: /projects.html
     <p class="project-tags"><code>Python</code></p>
     <p class="project-stats">
       <img src="https://img.shields.io/github/stars/N-Wouda/ALNS?style=flat-square&label=stars" alt="GitHub stars">
+      <img src="https://static.pepy.tech/badge/alns" alt="PyPI total downloads">
       <img src="https://static.pepy.tech/badge/alns/month" alt="PyPI downloads per month">
     </p>
     <p><a href="https://github.com/N-Wouda/ALNS">View on GitHub &rarr;</a></p>
