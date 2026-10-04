@@ -44,8 +44,12 @@ permalink: /projects.html
 
   <div class="project-card">
     <h3>Certified Robustness of Graph Convolution Networks for Graph Classification under Topological Attacks</h3>
-    <p>Hongwei Jin, Zhan Shi, Ashish Peruri, Xinhua Zhang &mdash; NeurIPS 2020.</p>
-    <p><a href="https://proceedings.neurips.cc/paper_files/paper/2020/file/609a199881ca4ba9c95688235cd6ac5c-Paper.pdf">Read the paper &rarr;</a></p>
+    <p>Hongwei Jin, Zhan Shi, Ashish Peruri, Xinhua Zhang @ NeurIPS 2020.</p>
+    <p>
+      <a href="https://proceedings.neurips.cc/paper_files/paper/2020/file/609a199881ca4ba9c95688235cd6ac5c-Paper.pdf">Read the paper &rarr;</a>
+      &nbsp;|&nbsp;
+      <a href="https://github.com/RobustGraph/RoboGraph">Code &rarr;</a>
+    </p>
   </div>
 
 </div>
