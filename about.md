@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+description: About Ashish Peruri, AI researcher working on LLMs, NLP, computer vision, and machine learning.
 permalink: /about.html
 ---
 

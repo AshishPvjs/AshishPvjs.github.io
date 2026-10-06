@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Blog
+description: Writing and recommended reading from Ashish Peruri.
 permalink: /blog.html
 ---
 

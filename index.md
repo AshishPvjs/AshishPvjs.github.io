@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Home
+title: Ashish Peruri · AI Researcher
+description: "Ashish Peruri: deep learning portfolio, open source projects, papers, and writing."
 ---
 
 <div class="hero">

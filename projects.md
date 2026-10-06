@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Projects
+description: Open source libraries and published papers by Ashish Peruri.
 permalink: /projects.html
 ---
 
