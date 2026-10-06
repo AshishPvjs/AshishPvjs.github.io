@@ -5,7 +5,12 @@ description: Writing and recommended reading from Ashish Peruri.
 permalink: /blog.html
 ---
 
-<p class="page-subtitle">Notes on what I'm building and reading.</p>
+<p class="page-subtitle">
+  Notes on what I'm building and reading:
+  <a href="{{ '/projects.html' | relative_url }}">Current projects</a> ·
+  <a href="#recommended-reading">Recommended reading</a> ·
+  <a href="#reading-list">Reading list</a>
+</p>
 
 <ul class="post-list">
   {% for post in site.posts %}
@@ -33,3 +38,7 @@ permalink: /blog.html
     <p>Practical machine learning education through building small, real-world systems.</p>
   </li>
 </ul>
+
+## Reading list
+
+Coming soon.
