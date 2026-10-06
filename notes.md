@@ -16,6 +16,6 @@ Coming soon.
   <li><a href="https://aiengineersjourney.substack.com">An AI Engineer's Journey</a></li>
 </ul>
 
-## Reading list
+## What I'm reading
 
 Coming soon.
