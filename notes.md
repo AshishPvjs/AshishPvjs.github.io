@@ -5,9 +5,7 @@ description: What Ashish Peruri is building and reading.
 permalink: /notes.html
 ---
 
-## Under construction
-
-Coming soon.
+## Work in progress
 
 ## Recommended reading
 
@@ -17,5 +15,3 @@ Coming soon.
 </ul>
 
 ## What I'm reading
-
-Coming soon.
