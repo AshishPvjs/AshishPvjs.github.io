@@ -5,6 +5,8 @@ description: Writing and recommended reading from Ashish Peruri.
 permalink: /blog.html
 ---
 
+<p class="page-subtitle">Notes on what I'm building and reading.</p>
+
 <ul class="post-list">
   {% for post in site.posts %}
   <li>
