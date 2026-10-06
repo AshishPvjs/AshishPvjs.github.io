@@ -1,15 +1,12 @@
 ---
 layout: page
 title: Blog
-description: Writing and recommended reading from Ashish Peruri.
+description: Writing from Ashish Peruri.
 permalink: /blog.html
 ---
 
 <p class="page-subtitle">
-  Notes on what I'm building and reading:
-  <a href="{{ '/projects.html' | relative_url }}">Current projects</a> ·
-  <a href="#recommended-reading">Recommended reading</a> ·
-  <a href="#reading-list">Reading list</a>
+  <a href="{{ '/notes.html' | relative_url }}">Notes on what I'm building and reading</a>
 </p>
 
 <ul class="post-list">
@@ -25,20 +22,3 @@ permalink: /blog.html
   </li>
   {% endfor %}
 </ul>
-
-## Recommended reading
-
-<ul class="post-list">
-  <li>
-    <h3><a class="post-link" href="https://magazine.sebastianraschka.com/?utm_source=homepage_recommendations&utm_campaign=4634702">Ahead of AI</a></h3>
-    <p>A newsletter on machine learning and AI research, by Sebastian Raschka.</p>
-  </li>
-  <li>
-    <h3><a class="post-link" href="https://aiengineersjourney.substack.com">An AI Engineer's Journey</a></h3>
-    <p>Practical machine learning education through building small, real-world systems.</p>
-  </li>
-</ul>
-
-## Reading list
-
-Coming soon.
