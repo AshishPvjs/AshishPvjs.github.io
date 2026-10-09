@@ -51,6 +51,42 @@
   margin-bottom: 2rem;
 }
 
+// Replace minima's small boxed dropdown with a full-width panel on mobile
+@media screen and (max-width: 600px) {
+  .site-nav {
+    position: static;
+    background: none;
+    border: none;
+    border-radius: 0;
+  }
+
+  .site-nav input:checked ~ .trigger {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    width: auto;
+    margin: 0;
+    padding: 0.25rem ($spacing-unit * 0.5) 0.75rem;
+    background-color: $background-color;
+    border-top: 1px solid rgba(128, 128, 128, 0.2);
+    border-bottom: 1px solid rgba(128, 128, 128, 0.2);
+    z-index: 5;
+  }
+
+  .site-nav .page-link {
+    display: block;
+    margin-left: 0;
+    padding: 0.85rem 0;
+    font-size: 1.05rem;
+    text-align: left;
+
+    &:not(:last-child) {
+      border-bottom: 1px solid rgba(128, 128, 128, 0.08);
+    }
+  }
+}
+
 .site-footer {
   .footer-wrapper {
     display: flex;
